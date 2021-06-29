@@ -1,4 +1,7 @@
-# My homepage 
+---
+layout: default-layout.njk
+title: Forest Hills Manor
+---
 
 Use some **bold** text or __italics__.
 
