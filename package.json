@@ -1,0 +1,23 @@
+{
+  "name": "forest-hill-manor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashtandel/forest-hill-manor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashtandel/forest-hill-manor/issues"
+  },
+  "homepage": "https://github.com/aakashtandel/forest-hill-manor#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
